@@ -1,0 +1,4 @@
+# The Makefiles come from the template and devctl; they are left out of the
+# language statistics so the repository reads as Go.
+Makefile linguist-generated=true
+Makefile.*.mk linguist-generated=true
