@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+
+- Update architect to v10.14.4 (giantswarm/agentlab-workspace-fixture#11)
+
 ### Added
 
 - The `greeting` package with its test and a `main` that prints a greeting: the code the agentlab workspace proofs change.
