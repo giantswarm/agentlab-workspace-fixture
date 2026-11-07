@@ -1,4 +1,4 @@
 creation_rules:
-  - path_regex: ^slice14-proof/content/.*-secret\.enc\.yaml$
+  - path_regex: ^slice14-proof/content/.*-secret[.]enc[.]yaml$
     encrypted_regex: ^(data|stringData)$
     age: age1ly7xuuht5azxllv402htgvqnq5qjva4cwydn09pupdu4wc6xcvdq5n7a4u
